@@ -1,0 +1,16 @@
+review,sentiment_score,sentiment_label
+The product quality is amazing and exceeded my expectations.,0.6000000000000001,Positive
+This is the worst purchase I have ever made.,-1.0,Negative
+Delivery was on time but the packaging was damaged.,0.0,Neutral
+I love how smooth and fast this device works.,0.3666666666666667,Positive
+The customer service was terrible and unhelpful.,-1.0,Negative
+"The movie was okay, not great but not bad either.",0.14999999999999997,Positive
+I am extremely satisfied with my new laptop.,0.3181818181818182,Positive
+The battery life is disappointing and drains too quickly.,-0.13333333333333333,Negative
+Fantastic experience! I will definitely buy again.,0.25,Positive
+The restaurant had good food but the service was slow.,0.19999999999999996,Positive
+"I feel neutral about this app, it works fine.",0.4166666666666667,Positive
+"Terrible experience, I want a refund right now.",-0.35714285714285715,Negative
+This phone performs very well and I enjoy using it.,0.30000000000000004,Positive
+The sound quality could be better but it is acceptable.,0.45,Positive
+Amazing performance and great value for the price.,0.7000000000000001,Positive
